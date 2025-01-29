@@ -14,8 +14,10 @@ I have a strong interest in **web development** and **innovative systems**, and 
 - 📝 **Current Projects**:  
   - Digital Clock Project  
   - Portfolio Project  
-  - Simple To-Do List Project using HTML, CSS, JavaScript  
-  - Toko Kelontong Sederhana using C++  
+  - SimpleToDoList Project using HTML, CSS, JavaScript
+  - WeatherApp Project using HTML, CSS, JavaScript
+  - API CreateReadUpdateDelete (CRUD) using JavaScript and Node.Js
+  - Toko Kelontong using C++  
 
 - 💡 **Learning Goals**: Master frontend & backend technologies, explore DevOps tools  
 - 👨‍💻 **Future Goals**: Become a skilled Web Developer & DevOps Engineer  
