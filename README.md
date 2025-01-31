@@ -32,8 +32,7 @@ I have a strong interest in **web development** and **innovative systems**, and 
 
 **"Dream big, start small, and never stop learning."**  
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amr.ullah_azzaky/#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrullah-azzaky-5b9685326/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/amr.ullah_azzaky/#)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrullah-azzaky-5b9685326/)  
 
 <h2>💻 Tech Stack</h2>
 
